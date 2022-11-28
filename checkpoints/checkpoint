@@ -1,0 +1,2 @@
+model_checkpoint_path: "tmpWeights.tf"
+all_model_checkpoint_paths: "tmpWeights.tf"
